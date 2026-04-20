@@ -1,4 +1,13 @@
 site_name: NKR Documentation
+site_description: User documentation for NKR - Bois
+site_url: https://techlib.github.io/NKR-docs/
+repo_url: https://github.com/techlib/NKR-docs
+repo_name: techlib/NKR-docs
+
+theme:
+  name: material
+  language: en
+
 nav:
   - Introduction: index.md
   - Login: login.md
