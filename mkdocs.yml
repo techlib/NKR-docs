@@ -1,0 +1,5 @@
+site_name: NKR Documentation
+nav:
+  - Introduction: index.md
+  - Login: login.md
+  
