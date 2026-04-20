@@ -1,4 +1,6 @@
-## Login
+# Login
+## How to log in
+
 You can find the [NKR](https://repo.cz). To log in to the system, click the Sign In icon in the upper-right corner. 
 
 ![sign_in](img/sing_in.jpg)
@@ -15,14 +17,18 @@ To log in, use your institutional credentials.
 
 ![login](img/login.jpg)
 
-## There are two possible scenarios: 
+## Possible login scenarios
 
-## a)
+There are two possible scenarios after the first login.
+
+### Pre-approved email address
+
 **Your email address has been pre-approved.** In this case, when you log in for the first time, the system will ask whether you agree to have the provided information transferred from E-INFRA to the NKR system. We recommend leaving all the preselected options checked. Of course, you have the right to select only the options you choose; however, if you do so, we cannot guarantee that you will be able to log in to the NKR. If you click **Yes, I accept** at the bottom of the page, the system will log you in, and the prompt will not appear again next time. You are now logged in and can use the NKR with more features than a guest user. 
 
 ![accept](img/accept.jpg)
 
-## b)
+### Email address not pre-approved
+
 **Your email address has not been pre-approved.** In this case, the system will prompt you to activate your account. All fields will be pre-filled. Please click through all of them. 
 
 ![next](img/next.jpg)
