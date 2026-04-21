@@ -1,7 +1,7 @@
 # Login
 ## How to log in
 
-You can find the [NKR](https://repo.cz). To log in to the system, click the Sign In icon in the upper-right corner. 
+You can find the [NKR](https://repo.cz) here. To log in to the system, click the Sign In icon in the upper-right corner. 
 
 ![sign_in](img/sing_in.jpg)
 
