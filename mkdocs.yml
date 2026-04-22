@@ -7,6 +7,9 @@ repo_name: techlib/NKR-docs
 theme:
   name: material
   language: en
+  palette:
+    scheme: default
+    primary: red
 
 nav:
   - Introduction: index.md
