@@ -1,5 +1,5 @@
 # Menu
-
+## Menu items
 After logging in, you will see the following options on the home page; some of them are described in more detail below.
 
 + **Create** - Here you will find a drop-down menu with options for creating a new record (for example, if you want to create a new organization). The options vary depending on the role and permissions assigned to you. 
