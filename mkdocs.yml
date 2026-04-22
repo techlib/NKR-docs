@@ -16,6 +16,5 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Introduction: index.md
   - Login: login.md
   - Menu: menu.md
